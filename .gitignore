@@ -1,0 +1,29 @@
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# node/npm
+node_modules
+
+# Local Netlify folder
+.netlify
+/public/*
+
+# VS Code
+.vscode/*
+
+## Hugo
+# default output directory
+/public
+
+# generated resources directory
+/resources
+
+# Hugo specific
+.hugo_build.lock
